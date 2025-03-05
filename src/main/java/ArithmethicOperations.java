@@ -1,17 +1,15 @@
 
 public class ArithmethicOperations {
     public static void main (String[] args) {
-        int sumAndSubstract = 85 + 10 -60;
-        int division = 85 / 10;
-        int substractAndMultiplication = 85 - 10 * 5;
-        int multiplication = 85 * 10;
-        int multiplicationAndQouteint = 85 * 10 % 5;
+        int sum = 45 + 11;
+        int multiplication =12 * 4;
+        int divisionn = 24 / 6;
+        int substraction = 55 - 12;
 
-        System.out.println("85 + 10 -60 " + sumAndSubstract);
-        System.out.println("85 / 10" + division);
-        System.out.println("85 - 10 * 5" + substractAndMultiplication);
-        System.out.println(" 85 * 10" + multiplication);
-        System.out.println("85 * 10 % 5 " + multiplicationAndQouteint);
+        System.out.println("45 + 11 " + addition);
+        System.out.println("12 * 6" + multiplication);
+        System.out.println(" 24 / 6" + division);
+        System.out.println("55 - 12" + substraction);
 
     }
 }
